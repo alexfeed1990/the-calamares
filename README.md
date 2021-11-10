@@ -1,2 +1,2 @@
 # the-calamares
-ooh boy here we go again
+calamares pkgbuild and custom build for [THE](https://github.com/alexfeed1990/THELinux).
