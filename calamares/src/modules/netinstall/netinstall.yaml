@@ -73,6 +73,7 @@
     - unrar
     - unzip
     - zip
+    - file-roller
     # xorg base
     - xorg
     - xorg-apps
